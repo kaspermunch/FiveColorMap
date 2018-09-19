@@ -1,2 +1,3 @@
 # FiveColorMap
-A five-coloured world map using Cartopy
+
+Basic recipes for Cartopy and a nice five-coloured world map using Cartopy
